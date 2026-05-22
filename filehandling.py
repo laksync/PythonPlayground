@@ -1,5 +1,5 @@
 with open("text.txt","w") as f:
-    f.write("Hellow World")
+    f.write("Hello World")
 with open("text.txt","r") as f:
     data=f.read()
                 
