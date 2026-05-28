@@ -13,13 +13,15 @@ A terminal-based AI study assistant built using Python and OpenRouter API.
 - `/history` → View saved history
 - `/clear` → Clear history
 - `/exit` → Exit the program
+- `/pdf` → Enter PDF Mode
+- `/nopdf` → Exit PDF Mode 
 
 ## Technologies Used
 - Python
 - Requests
 - OpenRouter API
 - File Handling
-
+- PDF Reading
 ## How to Run
 
 Install requests:
